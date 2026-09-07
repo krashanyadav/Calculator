@@ -25,7 +25,7 @@ A simple and responsive Calculator application built using HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 
-🔗 https://your-calculator-demo-link.vercel.app/
+🔗 https://calculator-jw2x.vercel.app/
 
 ---
 
